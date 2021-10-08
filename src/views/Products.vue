@@ -165,7 +165,9 @@ export default {
 .move-up-enter {
   transform: translateY(100%);
 }
-
+.cqt {
+  width: 100%;
+}
 .product {
   // position: fixed;
   position: absolute;
